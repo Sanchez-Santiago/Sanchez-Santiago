@@ -1,22 +1,47 @@
 <div align="center">
-    
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=300&amp;color=gradient&amp;section=header&amp;reversal=false&amp;text=Hey+there%21+I%27m+Santiago&amp;textBg=false&amp;fontSize=70&amp;fontAlign=50&amp;fontAlignY=36&amp;rotate=0&amp;strokeWidth=0&amp;descSize=20&amp;descAlign=50&amp;descAlignY=60"/>
-
-<br/>
-
-<img src="./assets/animation_500_kxa883sd.gif" width="100%" alt="Coding"/>
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;color=%2300FF9C&amp;size=24&amp;center=true&amp;vCenter=true&amp;width=750&amp;height=100&amp;lines=Full+Stack+Developer;Backend+%26+Web+Developer;Computer+Engineering+Student;Building+Real-World+Projects;Automation+%26+AI+Integrations;Always+Learning.+Always+Building."/></a>
-</p>
-<p>
-  🇦🇷 Córdoba, Argentina
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=Sanchez-Santiago&amp;label=Profile%20Views&amp;color=00C853&amp;style=flat" alt="Profile Views"/>
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=header&text=Hey+there!+I'm+Santiago&textBg=false&fontSize=70&fontAlign=50&fontAlignY=36"
+  alt="Header"
+/>
 
 </div>
+
+<br>
+
+<table width="100%">
+<tr>
+
+<td width="60%" align="left">
+
+<b>📌 Quick Info</b>
+
+<br><br>
+
+🇦🇷 <b>Córdoba, Argentina</b><br>
+🎂 <b>24 years old</b><br>
+🗣️ <b>Spanish · English (Intermediate)</b><br>
+🌎 <b>Open to Remote Opportunities</b><br>
+📚 <b>4th Year Student</b><br>
+🐧 <b>Linux User</b>
+
+</td>
+
+<td width="40%" align="center">
+
+<img
+  src="./assets/animation_500_kxa883sd.gif"
+  width="300"
+  alt="Coding"
+/>
+
+</td>
+
+</tr>
+</table>
+
+<br>
 
 ---
 
@@ -25,7 +50,7 @@
 <table width="100%">
 <tr>
 
-<td width="75%" align="left" valign="top">
+<td width="75%" align="left">
 
 I'm **Santiago Javier Sánchez**, a Full Stack Developer and Computer Engineering student from **Córdoba, Argentina**.
 
@@ -33,19 +58,23 @@ I'm passionate about building real-world applications, solving problems through 
 
 I have hands-on experience through personal and academic projects involving **web applications, REST APIs, databases, automation, and AI integrations**. I'm particularly interested in creating practical solutions that improve processes and turn ideas into working software.
 
-<br/>
+<br>
 
-🎓 **Computer Engineering Student**<br/>
-💻 **Full Stack &amp; Backend Development**<br/>
-🤖 **Automation &amp; AI Integrations**<br/>
-🧠 **Always learning and exploring**<br/>
+🎓 **Computer Engineering Student**<br>
+💻 **Full Stack & Backend Development**<br>
+🤖 **Automation & AI Integrations**<br>
+🧠 **Always learning and exploring**<br>
 🚀 **Always building**
 
 </td>
 
-<td width="25%" align="right" valign="middle">
+<td width="25%" align="center">
 
-<img src="./assets/algoritmo.gif" width="200" alt="Coding"/>
+<img
+  src="./assets/algoritmo.gif"
+  width="200"
+  alt="Coding"
+/>
 
 </td>
 
@@ -58,7 +87,7 @@ I have hands-on experience through personal and academic projects involving **we
 
 <div align="center">
 
-```text
+<pre>
 ╭──────────────────────────────────────────────────────────╮
 │                                                          │
 │  santiago@github:~$ whoami                               │
@@ -83,58 +112,71 @@ I have hands-on experience through personal and academic projects involving **we
 │  Always learning. Always building. 🚀                    │
 │                                                          │
 ╰──────────────────────────────────────────────────────────╯
-```
+</pre>
+
 </div>
 
 ---
-
 <div align="center">
-<img src="./assets/giphy.gif" width="60" alt="Tech Stacks"/>
-<h2>Tech Stacks</h2><br><br>
-</div>
-<div align="left">
+
+## 🛠️ Tech Stack
 
 ### 💻 Languages
+<img src="./assets/tecnologias/Java.svg" width="50">
+<img src="./assets/tecnologias/Kotlin.svg" width="50">
+<img src="./assets/tecnologias/JavaScript.svg" width="50">
+<img src="./assets/tecnologias/TypeScript.svg" width="50">
+<img src="./assets/tecnologias/Cpp.svg" width="50">
 
-<a href="https://www.java.com"><img src="./assets/tecnologias/Java-Light.svg" width="55" alt="Java" title="Java"/></a>
-<a href="https://kotlinlang.org"><img src="./assets/tecnologias/Kotlin-Light.svg" width="55" alt="Kotlin" title="Kotlin"/></a>
-<a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="./assets/tecnologias/JavaScript.svg" width="55" alt="JavaScript" title="JavaScript"/></a>
-<a href="https://www.typescriptlang.org"><img src="./assets/tecnologias/TypeScript.svg" width="55" alt="TypeScript" title="TypeScript"/></a>
-<a href="https://isocpp.org"><img src="./assets/tecnologias/CPP.svg" width="55" alt="C++" title="C++"/></a>
-<a href="https://www.rust-lang.org"><img src="./assets/tecnologias/Rust.svg" width="55" alt="Rust" title="Rust"/></a>
-<a href="https://developer.mozilla.org/docs/Web/HTML"><img src="./assets/tecnologias/HTML.svg" width="55" alt="HTML" title="HTML"/></a>
-<a href="https://developer.mozilla.org/docs/Web/CSS"><img src="./assets/tecnologias/CSS.svg" width="55" alt="CSS" title="CSS"/></a>
+<br/><br/>
 
 ### 🎨 Frontend
+<img src="./assets/tecnologias/React.svg" width="50">
+<img src="./assets/tecnologias/Astro.svg" width="50">
+<img src="./assets/tecnologias/TailwindCSS.svg" width="50">
+<img src="./assets/tecnologias/HTML.svg" width="50">
+<img src="./assets/tecnologias/CSS.svg" width="50">
 
-<a href="https://react.dev"><img src="./assets/tecnologias/React-Light.svg" width="55" alt="React" title="React"/></a>
-<a href="https://astro.build"><img src="./assets/tecnologias/Astro.svg" width="55" alt="Astro" title="Astro"/></a>
-<a href="https://tailwindcss.com"><img src="./assets/tecnologias/TailwindCSS-Light.svg" width="55" alt="Tailwind CSS" title="Tailwind CSS"/></a>
+<br/><br/>
 
 ### ⚙️ Backend & Runtime
+<img src="./assets/tecnologias/NodeJS.svg" width="50">
+<img src="./assets/tecnologias/Bun.svg" width="50">
+<img src="./assets/tecnologias/Deno.svg" width="50">
+<img src="./assets/tecnologias/Express.svg" width="50">
+<img src="./assets/tecnologias/NestJS.svg" width="50">
 
-<a href="https://nodejs.org"><img src="./assets/tecnologias/NodeJS-Light.svg" width="55" alt="Node.js" title="Node.js"/></a>
-<a href="https://bun.sh"><img src="./assets/tecnologias/Bun-Light.svg" width="55" alt="Bun" title="Bun"/></a>
-<a href="https://deno.com"><img src="./assets/tecnologias/DENO-Dark.svg" width="55" alt="Deno" title="Deno"/></a>
+<br/><br/>
 
 ### 🗄️ Databases
+<img src="./assets/tecnologias/MySQL.svg" width="50">
+<img src="./assets/tecnologias/PostgreSQL.svg" width="50">
+<img src="./assets/tecnologias/SQLite.svg" width="50">
 
-<a href="https://www.mysql.com"><img src="./assets/tecnologias/MySQL-Light.svg" width="55" alt="MySQL" title="MySQL"/></a>
-<a href="https://www.postgresql.org"><img src="./assets/tecnologias/PostgreSQL-Light.svg" width="55" alt="PostgreSQL" title="PostgreSQL"/></a>
-<a href="https://www.sqlite.org"><img src="./assets/tecnologias/SQLite.svg" width="55" alt="SQLite" title="SQLite"/></a>
+<br/><br/>
 
-### 📱 Mobile
+### 📱 Mobile Development
+<img src="./assets/tecnologias/Android.svg" width="50">
+<img src="./assets/tecnologias/AndroidStudio.svg" width="50">
 
-<a href="https://kotlinlang.org"><img src="./assets/tecnologias/Kotlin-Light.svg" width="55" alt="Kotlin" title="Kotlin"/></a>
-<a href="https://developer.android.com/studio"><img src="./assets/tecnologias/AndroidStudio-Light.svg" width="55" alt="Android Studio" title="Android Studio"/></a>
+<br/><br/>
+
+### 🎮 Game Development
+<img src="./assets/tecnologias/Godot.svg" width="50">
+
+<br/><br/>
+
+### 🧊 3D Development
+<img src="./assets/tecnologias/Blender-Light.svg" width="50">
+
+<br/><br/>
 
 ### 🔧 Tools & Environment
-
-<a href="https://git-scm.com"><img src="./assets/tecnologias/Git.svg" width="55" alt="Git" title="Git"/></a>
-<a href="https://www.docker.com"><img src="./assets/tecnologias/Docker.svg" width="55" alt="Docker" title="Docker"/></a>
-<a href="https://www.linux.org"><img src="./assets/tecnologias/Linux-Light.svg" width="55" alt="Linux" title="Linux"/></a>
-<a href="https://www.postman.com"><img src="./assets/tecnologias/Postman.svg" width="55" alt="Postman" title="Postman"/></a>
-<a href="https://www.figma.com"><img src="./assets/tecnologias/Figma-Dark.svg" width="55" alt="Figma" title="Figma"/></a>
+<img src="./assets/tecnologias/Git.svg" width="50">
+<img src="./assets/tecnologias/Docker.svg" width="50">
+<img src="./assets/tecnologias/Linux.svg" width="50">
+<img src="./assets/tecnologias/Postman.svg" width="50">
+<img src="./assets/tecnologias/Figma.svg" width="50">
 
 </div>
 
@@ -144,7 +186,7 @@ I have hands-on experience through personal and academic projects involving **we
 
 <div align="center">
 
-<table>
+<table width="100%">
 <tr>
 
 <td width="50%" valign="top">
@@ -190,22 +232,138 @@ Applications and workflows that integrate AI to provide useful functionality and
 
 ---
 
-## 📬 Contáctame
+## 🚀 Featured Projects
 
 <div align="center">
-<a href="mailto:sanchez242018@gmail.com"><img src="./assets/redes_sociales/Gmail-Light.svg" width="60" alt="Gmail" title="sanchez242018@gmail.com"/></a>
-<br/>
-<b>sanchez242018@gmail.com</b>
-<br/><br/>
-<a href="https://github.com/Sanchez-Santiago"><img src="./assets/redes_sociales/Github-Dark.svg" width="50" alt="GitHub" title="GitHub"/></a>
-<a href="https://www.linkedin.com/in/santiago-sanchez-dev/"><img src="./assets/redes_sociales/LinkedIn.svg" width="50" alt="LinkedIn" title="LinkedIn"/></a>
-<a href="https://discord.com/users/708152038961184779"><img src="./assets/redes_sociales/Discord.svg" width="50" alt="Discord" title="Discord"/></a>
-<a href="https://www.instagram.com/santiago_sanchez.24/"><img src="./assets/redes_sociales/Instagram.svg" width="50" alt="Instagram" title="Instagram"/></a>
-<a href="https://portafolio-santiago-sanchez.netlify.app"><img src="./assets/redes_sociales/Portfolio.svg" width="50" alt="Portfolio" title="Portfolio"/></a>
-</div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=120&amp;color=gradient&amp;reversal=true"/>
+<table width="100%">
+<tr>
+
+<td width="50%" valign="top">
+
+### 🔐 System Back Office
+
+A full-stack management platform focused on operations, authentication, roles, reporting and business processes.
+
+**Node.js · Express · PostgreSQL · React · TypeScript**
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📄 CVisto
+
+A job-search management platform designed to organize applications, companies, contacts, emails and recruitment processes.
+
+**Node.js · React · PostgreSQL · Google APIs · AI**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🚗 Vehicle Marketplace
+
+A full-stack marketplace for buying and selling vehicles with authentication, roles, listings and database management.
+
+**NestJS · Prisma · PostgreSQL · React**
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🛒 SUPER AHORRO
+
+An Android application focused on grocery planning, budgets, products, purchases, offers and useful shopping tools.
+
+**Kotlin · Jetpack Compose · Room · Retrofit**
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=300&amp;color=gradient&amp;section=footer&amp;reversal=false&amp;textBg=false&amp;fontSize=70&amp;fontAlign=50&amp;fontAlignY=50&amp;rotate=0&amp;strokeWidth=0&amp;descSize=20&amp;descAlign=50&amp;descAlignY=60" width="100%" alt="footer" title="footer"/>
+## 📬 Contact Me
+
+<div align="center">
+
+<a href="mailto:sanchez242018@gmail.com">
+  <img
+    src="./assets/redes_sociales/Gmail-Light.svg"
+    width="60"
+    alt="Gmail"
+    title="sanchez242018@gmail.com"
+  />
+</a>
+
+<br>
+
+<b>sanchez242018@gmail.com</b>
+
+<br><br>
+
+<a href="https://github.com/Sanchez-Santiago">
+  <img
+    src="./assets/redes_sociales/Github-Dark.svg"
+    width="50"
+    alt="GitHub"
+    title="GitHub"
+  />
+</a>
+
+<a href="https://www.linkedin.com/in/santiago-sanchez-dev/">
+  <img
+    src="./assets/redes_sociales/LinkedIn.svg"
+    width="50"
+    alt="LinkedIn"
+    title="LinkedIn"
+  />
+</a>
+
+<a href="https://discord.com/users/708152038961184779">
+  <img
+    src="./assets/redes_sociales/Discord.svg"
+    width="50"
+    alt="Discord"
+    title="Discord"
+  />
+</a>
+
+<a href="https://www.instagram.com/santiago_sanchez.24/">
+  <img
+    src="./assets/redes_sociales/Instagram.svg"
+    width="50"
+    alt="Instagram"
+    title="Instagram"
+  />
+</a>
+
+<a href="https://portafolio-santiago-sanchez.netlify.app">
+  <img
+    src="./assets/redes_sociales/Portfolio.svg"
+    width="50"
+    alt="Portfolio"
+    title="Portfolio"
+  />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=footer&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50"
+  width="100%"
+  alt="Footer"
+/>
+
+</div>
