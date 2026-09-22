@@ -2,7 +2,7 @@
 
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=header&text=Hey+there!+I'm+Santiago&textBg=false&fontSize=70&fontAlign=50&fontAlignY=36"
+  src="https://capsule-render.vercel.app/api?type=waving&amp;height=300&amp;color=gradient&amp;section=header&amp;text=Hey+there!+I'm+Santiago&amp;textBg=false&amp;fontSize=70&amp;fontAlign=50&amp;fontAlignY=36"
   alt="Header"
 />
 
@@ -122,61 +122,61 @@ I have hands-on experience through personal and academic projects involving **we
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-<img src="./assets/tecnologias/Java.svg" width="50">
-<img src="./assets/tecnologias/Kotlin.svg" width="50">
-<img src="./assets/tecnologias/JavaScript.svg" width="50">
-<img src="./assets/tecnologias/TypeScript.svg" width="50">
-<img src="./assets/tecnologias/Cpp.svg" width="50">
+<a href="https://www.java.com"><img src="./assets/tecnologias/Java.svg" width="50"></a>
+<a href="https://kotlinlang.org"><img src="./assets/tecnologias/Kotlin.svg" width="50"></a>
+<a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="./assets/tecnologias/JavaScript.svg" width="50"></a>
+<a href="https://www.typescriptlang.org"><img src="./assets/tecnologias/TypeScript.svg" width="50"></a>
+<a href="https://isocpp.org"><img src="./assets/tecnologias/Cpp.svg" width="50"></a>
 
 <br/><br/>
 
 ### 🎨 Frontend
-<img src="./assets/tecnologias/React.svg" width="50">
-<img src="./assets/tecnologias/Astro.svg" width="50">
-<img src="./assets/tecnologias/TailwindCSS.svg" width="50">
-<img src="./assets/tecnologias/HTML.svg" width="50">
-<img src="./assets/tecnologias/CSS.svg" width="50">
+<a href="https://react.dev"><img src="./assets/tecnologias/React.svg" width="50"></a>
+<a href="https://astro.build"><img src="./assets/tecnologias/Astro.svg" width="50"></a>
+<a href="https://tailwindcss.com"><img src="./assets/tecnologias/TailwindCSS.svg" width="50"></a>
+<a href="https://developer.mozilla.org/docs/Web/HTML"><img src="./assets/tecnologias/HTML.svg" width="50"></a>
+<a href="https://developer.mozilla.org/docs/Web/CSS"><img src="./assets/tecnologias/CSS.svg" width="50"></a>
 
 <br/><br/>
 
 ### ⚙️ Backend & Runtime
-<img src="./assets/tecnologias/NodeJS.svg" width="50">
-<img src="./assets/tecnologias/Bun.svg" width="50">
-<img src="./assets/tecnologias/Deno.svg" width="50">
-<img src="./assets/tecnologias/Express.svg" width="50">
-<img src="./assets/tecnologias/NestJS.svg" width="50">
+<a href="https://nodejs.org"><img src="./assets/tecnologias/NodeJS.svg" width="50"></a>
+<a href="https://bun.sh"><img src="./assets/tecnologias/Bun.svg" width="50"></a>
+<a href="https://deno.com"><img src="./assets/tecnologias/Deno.svg" width="50"></a>
+<a href="https://expressjs.com"><img src="./assets/tecnologias/ExpressJS.svg" width="50"></a>
+
 
 <br/><br/>
 
 ### 🗄️ Databases
-<img src="./assets/tecnologias/MySQL.svg" width="50">
-<img src="./assets/tecnologias/PostgreSQL.svg" width="50">
-<img src="./assets/tecnologias/SQLite.svg" width="50">
+<a href="https://www.mysql.com"><img src="./assets/tecnologias/MySQL.svg" width="50"></a>
+<a href="https://www.postgresql.org"><img src="./assets/tecnologias/PostgreSQL.svg" width="50"></a>
+<a href="https://www.sqlite.org"><img src="./assets/tecnologias/SQLite.svg" width="50"></a>
 
 <br/><br/>
 
 ### 📱 Mobile Development
-<img src="./assets/tecnologias/Android.svg" width="50">
-<img src="./assets/tecnologias/AndroidStudio.svg" width="50">
+<a href="https://www.android.com"><img src="./assets/tecnologias/Android.svg" width="50"></a>
+<a href="https://developer.android.com/studio"><img src="./assets/tecnologias/AndroidStudio.svg" width="50"></a>
 
 <br/><br/>
 
 ### 🎮 Game Development
-<img src="./assets/tecnologias/Godot.svg" width="50">
+<a href="https://godotengine.org"><img src="./assets/tecnologias/Godot.svg" width="50"></a>
 
 <br/><br/>
 
 ### 🧊 3D Development
-<img src="./assets/tecnologias/Blender-Light.svg" width="50">
+<a href="https://www.blender.org"><img src="./assets/tecnologias/Blender-Light.svg" width="50"></a>
 
 <br/><br/>
 
 ### 🔧 Tools & Environment
-<img src="./assets/tecnologias/Git.svg" width="50">
-<img src="./assets/tecnologias/Docker.svg" width="50">
-<img src="./assets/tecnologias/Linux.svg" width="50">
-<img src="./assets/tecnologias/Postman.svg" width="50">
-<img src="./assets/tecnologias/Figma.svg" width="50">
+<a href="https://git-scm.com"><img src="./assets/tecnologias/Git.svg" width="50"></a>
+<a href="https://www.docker.com"><img src="./assets/tecnologias/Docker.svg" width="50"></a>
+<a href="https://www.linux.org"><img src="./assets/tecnologias/Linux.svg" width="50"></a>
+<a href="https://www.postman.com"><img src="./assets/tecnologias/Postman.svg" width="50"></a>
+<a href="https://www.figma.com"><img src="./assets/tecnologias/Figma.svg" width="50"></a>
 
 </div>
 
@@ -361,7 +361,7 @@ An Android application focused on grocery planning, budgets, products, purchases
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=footer&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50"
+  src="https://capsule-render.vercel.app/api?type=waving&amp;height=300&amp;color=gradient&amp;section=footer&amp;textBg=false&amp;fontSize=70&amp;fontAlign=50&amp;fontAlignY=50"
   width="100%"
   alt="Footer"
 />
